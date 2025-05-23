@@ -1,0 +1,34 @@
+{
+  "deals": [
+    {
+      "id": "deal1",
+      "pitchId": 0,
+      "trust": 91,
+      "amount": "€10-50K",
+      "sector": "ICT",
+      "logo": "https://images.pexels.com/photos/7242749/pexels-photo-7242749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "FarmLink Kosovo",
+      "description": "B2B marketplace connecting Kosovo farmers with restaurants"
+    },
+    {
+      "id": "deal2",
+      "pitchId": 1,
+      "trust": 88,
+      "amount": "€25-75K",
+      "sector": "Construction",
+      "logo": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "EcoBlock Construction",
+      "description": "Eco-friendly building materials from recycled plastic"
+    },
+    {
+      "id": "deal3",
+      "pitchId": 2,
+      "trust": 85,
+      "amount": "€15-30K",
+      "sector": "EdTech",
+      "logo": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "DigiLearn Kosovo",
+      "description": "Digital learning platform for K-12 students"
+    }
+  ]
+}

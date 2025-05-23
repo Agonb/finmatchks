@@ -1,0 +1,34 @@
+{
+  "matches": [
+    {
+      "id": "eu-innovation-fund",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png",
+      "name": "EU Innovation Fund",
+      "type": "Grant",
+      "amount": "Up to €15,000",
+      "deadline": "15 Jun 2025",
+      "matchScore": 90,
+      "description": "The EU Innovation Fund supports startups in Kosovo and Western Balkans countries with innovative solutions that contribute to sustainable development and economic growth.\n\nFunding is available for early-stage startups with a prototype or MVP that addresses key challenges in Kosovo. The grant covers development costs, market validation, and initial scaling activities.\n\nThe selection process includes an initial application review, followed by a pitch to a committee of experts. Successful applicants receive funding in milestone-based tranches with ongoing mentorship from EU business advisors."
+    },
+    {
+      "id": "kosban-angel",
+      "logo": "https://images.pexels.com/photos/7242749/pexels-photo-7242749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "KOSBAN Angel Network",
+      "type": "Equity Investment",
+      "amount": "€25,000 - €75,000",
+      "deadline": "Rolling Applications",
+      "matchScore": 85,
+      "description": "KOSBAN Angel Network connects Kosovo's diaspora investors with promising local startups. The network focuses on early-stage investments in technology, agriculture, and sustainable development sectors.\n\nInvestments typically range from €25,000 to €75,000 in exchange for equity stakes between 5-15%. In addition to capital, startups gain access to the extensive business networks of KOSBAN members across Europe and North America.\n\nThe application process includes initial screening, due diligence, and a pitch to the investment committee. Successful startups receive funding and ongoing support from their investor partners."
+    },
+    {
+      "id": "bkt-startup-loan",
+      "logo": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "name": "BKT Startup Loan",
+      "type": "Loan",
+      "amount": "Up to €50,000",
+      "deadline": "30 Apr 2025",
+      "matchScore": 75,
+      "description": "BKT Bank's Startup Loan program offers favorable financing terms for Kosovo-based businesses with at least 6 months of operations. The loan features lower interest rates than standard commercial loans and flexible repayment options.\n\nThe program includes a 6-month grace period on principal repayments and terms up to 5 years. Loans can be used for equipment purchases, working capital, or operational expansion.\n\nApplications require a business plan, financial projections, and proof of operations. BKT's dedicated startup banking team provides guidance throughout the application process."
+    }
+  ]
+}

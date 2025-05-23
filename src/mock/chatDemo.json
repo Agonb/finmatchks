@@ -1,0 +1,46 @@
+{
+  "messages": [
+    {
+      "id": "1",
+      "sender": "other",
+      "text": "Hi, I've reviewed your business plan and I'm very interested in your concept. Could you share more details about your projected market size?",
+      "timestamp": "10:32 AM"
+    },
+    {
+      "id": "2",
+      "sender": "user",
+      "text": "Hi! Thanks for your interest. Our addressable market in Kosovo is approximately €15M annually, with growth potential to expand to North Macedonia and Albania in year 3, increasing our market to €45M.",
+      "timestamp": "10:35 AM"
+    },
+    {
+      "id": "3",
+      "sender": "other",
+      "text": "That's promising. What about your team? Do you have the technical expertise to execute on your roadmap?",
+      "timestamp": "10:38 AM"
+    },
+    {
+      "id": "4",
+      "sender": "user",
+      "text": "Absolutely. Our CTO has 8 years of experience in similar platforms, and we've recently brought on a senior developer from Gjirafa. We're also partnering with the University of Pristina for R&D support.",
+      "timestamp": "10:42 AM"
+    },
+    {
+      "id": "5",
+      "sender": "other",
+      "text": "Great. Could you share your financial projections document? I'd like to review your assumptions on customer acquisition costs.",
+      "timestamp": "10:45 AM"
+    },
+    {
+      "id": "6",
+      "sender": "user",
+      "text": "Of course. I've just added our financial projections to the secure vault. You can access it through the link on the right.",
+      "timestamp": "10:48 AM"
+    },
+    {
+      "id": "7",
+      "sender": "other",
+      "text": "One more question - what are your plans for handling payments? Kosovo has unique challenges in this area.",
+      "timestamp": "10:52 AM"
+    }
+  ]
+}

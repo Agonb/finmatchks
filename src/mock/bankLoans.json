@@ -1,0 +1,68 @@
+{
+  "loans": [
+    {
+      "id": "loan1",
+      "company": "CraftCo",
+      "trust": 91,
+      "readiness": 7,
+      "amount": "15000",
+      "collateral": "none",
+      "pitchId": 0,
+      "logo": "https://images.pexels.com/photos/7242749/pexels-photo-7242749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "badges": ["KYC", "AML", "Collateral"],
+      "files": [
+        {
+          "name": "Business_Plan.pdf",
+          "size": "2.4 MB",
+          "type": "application/pdf"
+        },
+        {
+          "name": "Financial_Projections.xlsx",
+          "size": "1.1 MB",
+          "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+      ]
+    },
+    {
+      "id": "loan2",
+      "company": "AgroFresh",
+      "trust": 78,
+      "readiness": 6,
+      "amount": "25000",
+      "collateral": "equipment",
+      "pitchId": 1,
+      "logo": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "badges": ["KYC", "AML"],
+      "files": [
+        {
+          "name": "Business_Plan.pdf",
+          "size": "1.8 MB",
+          "type": "application/pdf"
+        }
+      ]
+    },
+    {
+      "id": "loan3",
+      "company": "DigiLearn",
+      "trust": 85,
+      "readiness": 8,
+      "amount": "20000",
+      "collateral": "intellectual_property",
+      "pitchId": 2,
+      "logo": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "badges": ["KYC", "AML", "Collateral"],
+      "files": [
+        {
+          "name": "Business_Plan.pdf",
+          "size": "3.1 MB",
+          "type": "application/pdf"
+        },
+        {
+          "name": "IP_Documentation.pdf",
+          "size": "0.8 MB",
+          "type": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
